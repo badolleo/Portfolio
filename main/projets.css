@@ -18,7 +18,7 @@ header {
     display: flex;
     color: black;
     width: 100vw;
-    height: 10vh;
+    height: 14vh;
     justify-content: end;
 }
 
@@ -62,12 +62,20 @@ header {
     top: 37vh;
 }
 
-.flex {
+.flex1 {
     display: flex;
-    flex-direction: column;
+    flex-direction: row;
     justify-items: center;
     align-items: center;
-    padding-top: 20vh;
+    padding-top: 30vh;
+}
+
+.flex2 {
+    display: flex;
+    flex-direction: row;
+    justify-items: center;
+    align-items: center;
+    padding-top: 10vh;
 }
 
 .odomo {
@@ -76,6 +84,8 @@ header {
     height: 34vh;
     box-shadow: 15px 15px 10px grey;
     margin-bottom: 5vh;
+    margin-left: 4.3vw;
+    margin-right: 4.3vw;
 }
 
 .projet-text {
@@ -111,6 +121,8 @@ header {
     height: 34vh;
     box-shadow: 15px 15px 10px grey;
     margin-bottom: 5vh;
+    margin-left: 4.3vw;
+    margin-right: 4.3vw;
 }
 
 .biosphere .projet-text .titre {
@@ -123,6 +135,8 @@ header {
     height: 34vh;
     box-shadow: 15px 15px 10px grey;
     margin-bottom: 5vh;
+    margin-left: 4.3vw;
+    margin-right: 4.3vw;
 }
 
 .groupama .projet-text .titre {
@@ -135,6 +149,8 @@ header {
     height: 34vh;
     box-shadow: 15px 15px 10px grey;
     margin-bottom: 5vh;
+    margin-left: 4.3vw;
+    margin-right: 4.3vw;
 }
 
 .externe .projet-text .titre {
@@ -149,6 +165,8 @@ header {
     height: 34vh;
     box-shadow: 15px 15px 10px grey;
     margin-bottom: 5vh;
+    margin-left: 4.3vw;
+    margin-right: 4.3vw;
 }
 
 .bd .projet-text .titre {
@@ -164,6 +182,8 @@ header {
     height: 34vh;
     box-shadow: 15px 15px 10px grey;
     margin-bottom: 5vh;
+    margin-left: 4.3vw;
+    margin-right: 4.3vw;
 }
 
 .vm .projet-text .titre {
